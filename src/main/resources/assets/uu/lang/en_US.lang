@@ -1,0 +1,25 @@
+item.ruby.name=Ruby
+item.sapphire.name=Sapphire
+item.green_sapphire.name=Green Sapphire
+item.green_sapphire_pickaxe.name=Green Sapphire Pickaxe
+item.green_sapphire_axe.name=Green Sapphire Axe
+item.green_sapphire_shovel.name=Green Sapphire Shovel
+item.green_sapphire_hoe.name=Green Sapphire Hoe
+item.green_sapphire_sword.name=Green Sapphire Sword
+item.sapphire_pickaxe.name=Sapphire Pickaxe
+item.sapphire_axe.name=Sapphire Axe
+item.sapphire_shovel.name=Sapphire Shovel
+item.sapphire_hoe.name=Sapphire Hoe
+item.sapphire_sword.name=Sapphire Sword
+item.ruby_pickaxe.name=Ruby Pickaxe
+item.ruby_axe.name=Ruby Axe
+item.ruby_shovel.name=Ruby Shovel
+item.ruby_hoe.name=Ruby Hoe
+item.ruby_sword.name=Ruby Sword
+
+tile.silver_ore.name=Silver Ore
+tile.ruby_ore.name=Ruby Ore
+tile.sapphire_ore.name=Sapphire Ore
+tile.green_sapphire_ore.name=Green Sapphire Ore
+
+itemGroup.tabUUOres=UU Ores
